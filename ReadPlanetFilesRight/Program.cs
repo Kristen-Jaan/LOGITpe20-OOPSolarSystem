@@ -16,6 +16,7 @@ namespace ReadPlanetFilesRight
             {
                 name = _name;
                 mass = _mass;
+               
             }
 
             public string Name { get { return name; } }
@@ -35,6 +36,13 @@ namespace ReadPlanetFilesRight
             List<Planets> planets = new List<Planets>();
 
             List<string> linesFromFile = File.ReadAllLines(Path.Combine(filePath, fileName)).ToList();
+
+            foreach(string line in linesFromFile)
+            {
+                string[] tempArray = line.Split(new char[] { '/' }, StringSplitOptions.RemoveEmptyEntries);
+                Planets newPlanets = new Planets(tempArray[0], Int32.Parse(tempArray[1]));
+                planets.Add(newPlanets);
+            }
 
             int total = 0;
 

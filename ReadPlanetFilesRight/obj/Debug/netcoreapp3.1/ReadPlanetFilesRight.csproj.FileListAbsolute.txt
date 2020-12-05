@@ -11,3 +11,16 @@ C:\Users\opilane\source\repos\OOPSolarSystem\ReadPlanetFilesRight\obj\Debug\netc
 C:\Users\opilane\source\repos\OOPSolarSystem\ReadPlanetFilesRight\obj\Debug\netcoreapp3.1\ReadPlanetFilesRight.dll
 C:\Users\opilane\source\repos\OOPSolarSystem\ReadPlanetFilesRight\obj\Debug\netcoreapp3.1\ReadPlanetFilesRight.pdb
 C:\Users\opilane\source\repos\OOPSolarSystem\ReadPlanetFilesRight\obj\Debug\netcoreapp3.1\ReadPlanetFilesRight.genruntimeconfig.cache
+C:\Users\Kristen-Jaan\source\repos\LOGITpe20-OOPSolarSystem\ReadPlanetFilesRight\bin\Debug\netcoreapp3.1\ReadPlanetFilesRight.exe
+C:\Users\Kristen-Jaan\source\repos\LOGITpe20-OOPSolarSystem\ReadPlanetFilesRight\bin\Debug\netcoreapp3.1\ReadPlanetFilesRight.deps.json
+C:\Users\Kristen-Jaan\source\repos\LOGITpe20-OOPSolarSystem\ReadPlanetFilesRight\bin\Debug\netcoreapp3.1\ReadPlanetFilesRight.runtimeconfig.json
+C:\Users\Kristen-Jaan\source\repos\LOGITpe20-OOPSolarSystem\ReadPlanetFilesRight\bin\Debug\netcoreapp3.1\ReadPlanetFilesRight.runtimeconfig.dev.json
+C:\Users\Kristen-Jaan\source\repos\LOGITpe20-OOPSolarSystem\ReadPlanetFilesRight\bin\Debug\netcoreapp3.1\ReadPlanetFilesRight.dll
+C:\Users\Kristen-Jaan\source\repos\LOGITpe20-OOPSolarSystem\ReadPlanetFilesRight\bin\Debug\netcoreapp3.1\ReadPlanetFilesRight.pdb
+C:\Users\Kristen-Jaan\source\repos\LOGITpe20-OOPSolarSystem\ReadPlanetFilesRight\obj\Debug\netcoreapp3.1\ReadPlanetFilesRight.csprojAssemblyReference.cache
+C:\Users\Kristen-Jaan\source\repos\LOGITpe20-OOPSolarSystem\ReadPlanetFilesRight\obj\Debug\netcoreapp3.1\ReadPlanetFilesRight.AssemblyInfoInputs.cache
+C:\Users\Kristen-Jaan\source\repos\LOGITpe20-OOPSolarSystem\ReadPlanetFilesRight\obj\Debug\netcoreapp3.1\ReadPlanetFilesRight.AssemblyInfo.cs
+C:\Users\Kristen-Jaan\source\repos\LOGITpe20-OOPSolarSystem\ReadPlanetFilesRight\obj\Debug\netcoreapp3.1\ReadPlanetFilesRight.csproj.CoreCompileInputs.cache
+C:\Users\Kristen-Jaan\source\repos\LOGITpe20-OOPSolarSystem\ReadPlanetFilesRight\obj\Debug\netcoreapp3.1\ReadPlanetFilesRight.dll
+C:\Users\Kristen-Jaan\source\repos\LOGITpe20-OOPSolarSystem\ReadPlanetFilesRight\obj\Debug\netcoreapp3.1\ReadPlanetFilesRight.pdb
+C:\Users\Kristen-Jaan\source\repos\LOGITpe20-OOPSolarSystem\ReadPlanetFilesRight\obj\Debug\netcoreapp3.1\ReadPlanetFilesRight.genruntimeconfig.cache
